@@ -9,7 +9,7 @@ console.log(INPUTS);
 const LOG = new Map(); // {number, turn}
 let SPOKEN_LAST = -1;
 
-let TOTAL = 30000000;
+let TOTAL = 30000000;// change total for both the parts. 
 
 function solve1(inputs){
     let turn = 1;
